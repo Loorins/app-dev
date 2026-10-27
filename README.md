@@ -3,7 +3,7 @@ My first repository
 
 
 ## My Favorite Movie/Series
-###1. The Odyssey
+### 1. The Odyssey
 ---
 **Genre:** Epic Poetry
 ---
